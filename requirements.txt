@@ -1,0 +1,5 @@
+fuzzywuzzy==0.18.0
+nextcord==2.0.0a10
+pip==22.0.4  
+setuptools==58.1.0  
+wheel==0.37.1
